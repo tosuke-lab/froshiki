@@ -1,0 +1,13 @@
+{
+  "name": "froshiki",
+  "devDependencies": {
+    "@types/node": "^15.12.2",
+    "estree-walker": "^3.0.0",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.2"
+  },
+  "dependencies": {
+    "astring": "^1.7.5",
+    "meriyah": "^4.1.5"
+  }
+}
